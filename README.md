@@ -1,4 +1,4 @@
-# To Do List
+# Budget app
 
 Interactive budget app using React Router and local storage.
 
